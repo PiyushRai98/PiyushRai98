@@ -377,41 +377,9 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-eight-roan.vercel.app/api?username=PiyushRai98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9" alt="GitHub Stats"/>
-&nbsp;
-<img width="48%" src="https://github-readme-stats-eight-roan.vercel.app/api/top-langs/?username=PiyushRai98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushRai98&theme=tokyonight&hide_border=true&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PiyushRai98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRai98&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+![](https://github-readme-stats.shion.dev/api?username=PiyushRai98&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PiyushRai98&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PiyushRai98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐍 Contribution Graph
 
