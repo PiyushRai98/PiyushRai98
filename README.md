@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Kumar%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Intelligence%20at%20Scale&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
@@ -12,10 +8,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SOCIAL BADGES                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 [![Email](https://img.shields.io/badge/Email-piyushrai961%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushrai961@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushrai100-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushrai100/)
 [![GitHub](https://img.shields.io/badge/GitHub-PiyushRai98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushRai98)
@@ -23,10 +15,6 @@
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PROFILE VIEWS & STATS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PiyushRai98&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/PiyushRai98?style=for-the-badge&color=6E57F7&logo=github&label=FOLLOWERS)
@@ -40,10 +28,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🧠 About Me
 
 ```python
@@ -54,10 +38,10 @@ class PiyushKumarRai:
     roles      = ["AI/ML Engineer", "Generative AI Engineer", "Full Stack Developer"]
 
     focus = {
-        "AI"       : ["LLMs", "RAG Pipelines", "Agentic AI", "LLM Orchestration"],
-        "ML"       : ["Recommendation Systems", "Ranking Models", "NLP", "Deep Learning"],
-        "Backend"  : ["MERN Stack", "Microservices", "REST APIs", "WebSockets"],
-        "MLOps"    : ["Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
+        "AI"      : ["LLMs", "RAG Pipelines", "Agentic AI", "LLM Orchestration"],
+        "ML"      : ["Recommendation Systems", "Ranking Models", "NLP", "Deep Learning"],
+        "Backend" : ["MERN Stack", "Microservices", "REST APIs", "WebSockets"],
+        "MLOps"   : ["Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
     }
 
     currently  = "AI Automation & Intelligent Solutions Intern @ IBM SkillsBuild"
@@ -74,10 +58,6 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CURRENT FOCUS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Focus
 
@@ -130,10 +110,6 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Tech Stack
 
 <details open>
@@ -161,7 +137,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 </details>
 
 <details open>
-<summary><b>Backend &amp; Databases</b></summary>
+<summary><b>Backend & Databases</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -182,9 +158,9 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -192,7 +168,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 </details>
 
 <details open>
-<summary><b>MLOps, DevOps &amp; Cloud</b></summary>
+<summary><b>MLOps, DevOps & Cloud</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -213,13 +189,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Featured Projects
-
-<div align="center">
 
 ---
 
@@ -238,7 +208,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 | **Dashboard** | Streamlit + Plotly — ranking insights & pipeline monitoring |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C7BB6?style=flat-square&logo=bookalope&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C7BB6?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -289,23 +259,17 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logoColor=white)
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushRai98)
 
 ---
-
-</div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       EXPERIENCE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💼 Experience
 
@@ -352,20 +316,12 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      OPEN SOURCE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🌐 Open Source
-
-<div align="center">
 
 | Program | Track | Contributions | Impact |
 |:---|:---|:---|:---|
 | **GirlScript Summer of Code 2026** | AI & Agents | 5+ merged PRs | RAG pipelines, Agentic AI, LLM orchestration |
 | **IBM SkillsBuild Internship** | AI Automation | Active | Intelligent workflows, AI integration |
-
-</div>
 
 <br/>
 
@@ -377,13 +333,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ACHIEVEMENTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🏆 Achievements
-
-<div align="center">
 
 | Achievement | Detail |
 |:---|:---|
@@ -394,21 +344,13 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 | 🎯 **Production ML Metrics** | Achieved RMSE: 0.879, Precision@10: 0.522 on Amazon Electronics dataset |
 | 👋 **Sub-100ms CV System** | Gesture recognition at sub-100ms latency — browser-native, no server |
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📜 Certifications
-
-<div align="center">
 
 <details open>
 <summary><b>DeepLearning.AI / Stanford Online — Andrew Ng</b></summary>
@@ -427,30 +369,25 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 </details>
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiyushRai98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRai98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PiyushRai98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9" alt="GitHub Stats"/>
+&nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRai98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=PiyushRai98&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" alt="GitHub Streak"/>
+<img width="55%" src="https://streak-stats.demolab.com/?user=PiyushRai98&theme=tokyonight&hide_border=true&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" alt="GitHub Streak"/>
 
 </div>
 
@@ -466,7 +403,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRai98&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FFFFFF&area=true&hide_border=true&area_color=6E57F720" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRai98&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -475,10 +412,6 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--         CONTRIBUTION SNAKE — matches snake.yml output         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Graph
 
@@ -498,10 +431,6 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       WAKATIME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## ⏱️ WakaTime Stats
 
 <div align="center">
@@ -516,10 +445,6 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    RANDOM DEV QUOTE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 💬 Dev Quote
 
 <div align="center">
@@ -533,10 +458,6 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CONTACT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📬 Contact
 
@@ -560,10 +481,6 @@ If you are building something ambitious in Generative AI, LLMs, or agentic syste
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
@@ -575,7 +492,7 @@ If you are building something ambitious in Generative AI, LLMs, or agentic syste
 <br/>
 
 ![Built with](https://img.shields.io/badge/Built_with-Obsession_%26_Coffee-6E57F7?style=flat-square)
-![Location](https://img.shields.io/badge/Noida%2C_India-0D1117?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Noida%2C_India-0D1117?style=flat-square&logo=pinboard&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-AI%2FML_Roles-2ea44f?style=flat-square)
 
 <br/>
