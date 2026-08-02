@@ -10,15 +10,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E57F7&center=true&vCenter=true&multiline=false&width=600&lines=AI+%2F+ML+Engineer;Generative+AI+Engineer;LLM+%26+RAG+Systems+Builder;Agentic+AI+Developer;Full+Stack+Engineer+%7C+MERN;Open+Source+Contributor)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      SOCIAL BADGES                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-piyushrai961%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushrai961@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushrai100-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushrai100/)
@@ -26,15 +22,11 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   PROFILE VIEWS & STATS                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PiyushRai98&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/PiyushRai98?style=for-the-badge&color=6E57F7&logo=github&label=FOLLOWERS)
@@ -54,8 +46,6 @@
 
 ## 🧠 About Me
 
-<div align="left">
-
 ```python
 class PiyushKumarRai:
     name       = "Piyush Kumar Rai"
@@ -72,15 +62,12 @@ class PiyushKumarRai:
 
     currently  = "AI Automation & Intelligent Solutions Intern @ IBM SkillsBuild"
     open_src   = "Open Source Contributor @ GSSoC 2026 — AI & Agents Track"
-
     philosophy = "Ship production AI. Build agentic systems. Scale what matters."
 ```
 
 I build **production-grade AI systems** — from LLM-orchestrated RAG pipelines and agentic workflows to full-stack MERN applications. My work sits at the intersection of **Generative AI**, **information retrieval**, and **scalable software engineering**.
 
 Currently interning at **IBM SkillsBuild** building intelligent automation solutions, and actively contributing to open-source AI repositories under **GSSoC 2026**. I care about systems that work at scale, pipelines that don't break in production, and AI that actually solves real problems.
-
-</div>
 
 <br/>
 
@@ -156,7 +143,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
@@ -174,7 +161,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 </details>
 
 <details open>
-<summary><b>Backend & Databases</b></summary>
+<summary><b>Backend &amp; Databases</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -192,12 +179,12 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -205,7 +192,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 </details>
 
 <details open>
-<summary><b>MLOps, DevOps & Cloud</b></summary>
+<summary><b>MLOps, DevOps &amp; Cloud</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -243,7 +230,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 > Built to shortlist the **top 100 candidates from 100K+ profiles** — combining hybrid retrieval, learning-to-rank, and explainable AI into a single end-to-end inference pipeline.
 
 | Detail | Info |
-|---|---|
+|:---|:---|
 | **Retrieval** | Hybrid BM25 + Dense Embeddings + Reciprocal Rank Fusion (RRF) |
 | **Ranking Model** | LightGBM LambdaMART with 104 engineered features |
 | **Intelligence** | Career evidence extraction, behavioral signals, explainable AI |
@@ -251,7 +238,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 | **Dashboard** | Streamlit + Plotly — ranking insights & pipeline monitoring |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C7BB6?style=flat-square&logo=lightgbm&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C7BB6?style=flat-square&logo=bookalope&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -267,7 +254,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 > Implemented and benchmarked **5 recommendation strategies** — from rank-based baselines to hybrid matrix factorization — with rigorous evaluation across 6 industry metrics.
 
 | Detail | Info |
-|---|---|
+|:---|:---|
 | **Techniques** | Rank-Based, User-User CF, Item-Item CF, Matrix Factorization (SVD), Hybrid |
 | **Best Model** | Hybrid Recommender — RMSE: 0.879, Precision@10: 0.522 |
 | **Evaluation** | RMSE, Precision@10, Recall@10, MAP, MRR, Hit Rate |
@@ -278,14 +265,11 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushRai98)
 
 ---
-
-</div>
-
-<div align="center">
 
 ### ⌨️ Air Typing Keyboard
 
@@ -294,7 +278,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 > A touchless keyboard that runs entirely in the browser — using **MediaPipe Hands** to track hand landmarks in real-time and map pinch gestures to keyboard interactions with sub-100ms latency.
 
 | Detail | Info |
-|---|---|
+|:---|:---|
 | **CV Pipeline** | MediaPipe Hands — real-time landmark detection & gesture classification |
 | **Interaction** | Pinch-based keypress with finger-to-keyboard coordinate mapping |
 | **Latency** | Sub-100ms gesture recognition response time |
@@ -303,9 +287,9 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushRai98)
 
@@ -327,10 +311,12 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <table width="100%">
 <tr>
-<td width="12%" align="center">
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<td width="14%" align="center">
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
 </td>
-<td width="88%">
+<td width="86%">
 
 **AI Automation & Intelligent Solutions Intern** · IBM SkillsBuild (AICTE × IBM)
 `June 2026 – Present` · Remote, India
@@ -342,10 +328,12 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
-<td width="12%" align="center">
-<img src="https://img.shields.io/badge/GSSoC-FF6B35?style=for-the-badge&logo=git&logoColor=white"/>
+<td width="14%" align="center">
+
+![GSSoC](https://img.shields.io/badge/GSSoC-FF6B35?style=for-the-badge&logo=git&logoColor=white)
+
 </td>
-<td width="88%">
+<td width="86%">
 
 **Open Source Contributor — AI & Agents Track** · GirlScript Summer of Code 2026
 `May 2026 – Present` · Remote, India
@@ -373,7 +361,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <div align="center">
 
 | Program | Track | Contributions | Impact |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | **GirlScript Summer of Code 2026** | AI & Agents | 5+ merged PRs | RAG pipelines, Agentic AI, LLM orchestration |
 | **IBM SkillsBuild Internship** | AI Automation | Active | Intelligent workflows, AI integration |
 
@@ -398,7 +386,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <div align="center">
 
 | Achievement | Detail |
-|---|---|
+|:---|:---|
 | 🤝 **IBM × AICTE Internship** | Selected for AI Automation program under AICTE collaboration with IBM |
 | 🌱 **GSSoC 2026 Contributor** | Active contributor on AI & Agents track — 5+ merged pull requests |
 | ⚙️ **CI/CD Automation** | Reduced manual developer overhead by ~40% via GitHub Actions automation |
@@ -427,7 +415,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <br/>
 
 | Certification | Issuer | Status |
-|---|---|---|
+|:---|:---|:---|
 | Machine Learning Specialization | DeepLearning.AI / Stanford | ✅ Completed |
 | Deep Learning Specialization | DeepLearning.AI | ✅ Completed |
 | Natural Language Processing Specialization | DeepLearning.AI | ✅ Completed |
@@ -455,14 +443,14 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiyushRai98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRai98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiyushRai98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRai98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=PiyushRai98&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=PiyushRai98&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" alt="GitHub Streak"/>
 
 </div>
 
@@ -470,13 +458,17 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PiyushRai98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/PiyushRai98)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PiyushRai98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/PiyushRai98)
 
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRai98&bg_color=0D1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushRai98&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FFFFFF&area=true&hide_border=true&area_color=6E57F720" width="100%" alt="Activity Graph"/>
+
+</div>
 
 <br/>
 
@@ -485,7 +477,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                          -->
+<!--         CONTRIBUTION SNAKE — matches snake.yml output         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Graph
@@ -493,9 +485,9 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiyushRai98/PiyushRai98/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiyushRai98/PiyushRai98/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PiyushRai98/PiyushRai98/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiyushRai98/PiyushRai98/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiyushRai98/PiyushRai98/output/snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/PiyushRai98/PiyushRai98/output/snake.svg" />
 </picture>
 
 </div>
@@ -514,7 +506,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <div align="center">
 
-> 📡 **Coming Soon** — WakaTime integration is being set up. Check back shortly.
+> 📡 **Coming Soon** — WakaTime integration is being configured. Check back shortly.
 
 </div>
 
@@ -582,8 +574,8 @@ If you are building something ambitious in Generative AI, LLMs, or agentic syste
 
 <br/>
 
-![Made with](https://img.shields.io/badge/Built_with-Obsession_&_Coffee-6E57F7?style=flat-square)
-![Location](https://img.shields.io/badge/📍_Noida,_India-0D1117?style=flat-square)
+![Built with](https://img.shields.io/badge/Built_with-Obsession_%26_Coffee-6E57F7?style=flat-square)
+![Location](https://img.shields.io/badge/Noida%2C_India-0D1117?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-AI%2FML_Roles-2ea44f?style=flat-square)
 
 <br/>
