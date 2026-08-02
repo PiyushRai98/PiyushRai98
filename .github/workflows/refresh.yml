@@ -1,0 +1,84 @@
+name: Refresh profile stats & portrait
+
+on:
+  # Run daily at 05:17 UTC (prime number minute avoids GitHub cron stampedes)
+  schedule:
+    - cron: "17 5 * * *"
+  # Allow manual reruns from the Actions tab
+  workflow_dispatch:
+
+# The job needs to push commits back to the repository
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # ── 1. Checkout ───────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git log / blame work inside scripts
+          fetch-depth: 0
+
+      # ── 2. Python ─────────────────────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # ── 3. Install dependencies ───────────────────────────────────────────
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install \
+            pillow==10.4.0 \
+            numpy==1.26.4 \
+            opencv-python-headless==4.10.0.84 \
+            rembg==2.0.59 \
+            onnxruntime==1.18.1
+
+      # ── 4. Generate ASCII portrait ────────────────────────────────────────
+      #
+      # `images/profile.jpg` must exist in the repository.
+      # The portrait is only regenerated when the source photo is present.
+      # Change --cols to adjust detail level (range 60–120 is practical).
+      - name: Generate ASCII portrait SVG
+        if: hashFiles('images/profile.jpg') != ''
+        run: |
+          python scripts/generate_portrait.py \
+            --input     images/profile.jpg \
+            --processed assets/processed.png \
+            --output    assets/portrait.svg \
+            --cols      90
+
+      # ── 5. Generate stats SVGs ─────────────────────────────────────────────
+      - name: Generate stats SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: |
+          python scripts/generate_stats.py
+
+      # ── 6. Commit changed files only ──────────────────────────────────────
+      #
+      # `git status --porcelain` returns an empty string when nothing changed,
+      # so the commit step is skipped on no-op runs.
+      - name: Commit updated SVGs (if changed)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the generated artefacts
+          git add assets/portrait.svg assets/processed.png generated/ || true
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore: refresh stats & portrait [skip ci]"
+            git push
+          else
+            echo "Nothing changed — skipping commit."
+          fi
