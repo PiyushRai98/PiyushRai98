@@ -379,15 +379,15 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PiyushRai98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats-eight-roan.vercel.app/api?username=PiyushRai98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9" alt="GitHub Stats"/>
 &nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRai98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats-eight-roan.vercel.app/api/top-langs/?username=PiyushRai98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="55%" src="https://streak-stats.demolab.com/?user=PiyushRai98&theme=tokyonight&hide_border=true&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7&dates=c9d1d9&sideLabels=c9d1d9&stroke=6E57F7" alt="GitHub Streak"/>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushRai98&theme=tokyonight&hide_border=true&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" alt="GitHub Streak"/>
 
 </div>
 
@@ -395,7 +395,7 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PiyushRai98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PiyushRai98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
 
