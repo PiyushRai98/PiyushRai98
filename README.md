@@ -377,10 +377,24 @@ Currently interning at **IBM SkillsBuild** building intelligent automation solut
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=PiyushRai98&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PiyushRai98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PiyushRai98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=PiyushRai98&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=PiyushRai98&theme=dark&hide_border=false&layout=compact"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=PiyushRai98&theme=dark&hide_border=false"
+  />
+</p>
 ## 🐍 Contribution Graph
 
 <div align="center">
