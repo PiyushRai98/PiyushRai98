@@ -1,3 +1,5 @@
+<img width="1920" height="732" alt="fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea" src="https://github.com/user-attachments/assets/50312c09-8a40-4760-980b-98c9c26a1adf" />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Kumar%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Intelligence%20at%20Scale&descAlignY=55&descSize=16" width="100%"/>
